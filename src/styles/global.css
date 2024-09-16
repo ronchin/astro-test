@@ -79,3 +79,8 @@ h1 {
         display: none;
     }
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
